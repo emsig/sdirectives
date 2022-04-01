@@ -1,0 +1,4 @@
+.eggs/
+sdirectives.egg-info/
+__pycache__/
+sdirectives/version.py
